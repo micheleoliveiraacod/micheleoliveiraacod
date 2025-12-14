@@ -1,20 +1,43 @@
-👩🏻‍💻 Michele Oliveira
+# Olá, seja bem vindo(a) ao meu espaço! :gem:
 
 **`Analista de BI e Cientista de Dados`**
 
-Sou specialista em tecnologias para negócios e ciência de dados, com experiência em gestão de processos, projetos e ações de melhoria contínua. Estudante de Bioinformática e Computação Quântica.
-Meu objetivo é criar um portifólio de trabalho e desenvolver ferramentas para resolver problemas de negócios de forma compartilhada.
+📍Sou especialista em **`AI, tecnologias para negócios e ciência de dados`** pela PUC, com experiência em **`gestão de processos`**, **`projetos`** e ações de **`melhoria contínua`**.
 
+🛠️ Trabalho com técnicas de **`ETL`** e visualização de dados utilizando **`Power BI e Looker Studio`**.
 
-### 🤖 Linguagens e Tecnologias
+📂 Meu objetivo é criar um **`portifólio de trabalho`** e desenvolver ferramentas para resolver problemas de negócios de forma compartilhada.
 
-<img 
+:electron: Formada em Biomedicina, estudante de Bioinformática e Computação Quântica.
+
+<br/>
+
+# 🌐 Linguagens e Tecnologias
+
+<img
     align="left" 
     alt="Python" 
     title="Python"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img
+    align="left" 
+    alt="HTML" 
+    title="HTML"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+/>
+
+<img
+    align="left" 
+    alt="JS" 
+    title="JS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
 />
 
 <img 
@@ -31,7 +54,7 @@ Meu objetivo é criar um portifólio de trabalho e desenvolver ferramentas para 
     title="RStudio"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg"        
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"         
 />
 <img 
     align="left" 
@@ -65,11 +88,46 @@ Meu objetivo é criar um portifólio de trabalho e desenvolver ferramentas para 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"   
 />
+<img
+    align="left" 
+    alt="Anaconda" 
+    title="Anaconda"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg"
+/>
+
+<img
+    align="left" 
+    alt="Pandas" 
+    title="Pandas"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"
+/>
+
+<img
+    align="left" 
+    alt="LUA" 
+    title="LUA"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg"
+/>
+<img
+    align="left" 
+    alt="VScode" 
+    title="VScode"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
+/>
 
 <br/>
 <br/>
+<br/>
 
-### 📊 Estatísticas
+# 📊 Estatísticas
 
 <p>
   <img 
@@ -88,3 +146,9 @@ Meu objetivo é criar um portifólio de trabalho e desenvolver ferramentas para 
   />
 
 </p>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+👽✡️🕉️🧿

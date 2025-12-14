@@ -2,7 +2,7 @@
 
 **`Analista de BI e Cientista de Dados`**
 
-Sou graduada em Biomedicina, especialista em Tecnologias para Negócios e Ciência de Dados. Estudante de Bioinformática e Computação Quântica.
+Sou specialista em tecnologias para negócios e ciência de dados, com experiência em gestão de processos, projetos e ações de melhoria contínua. Estudante de Bioinformática e Computação Quântica.
 Meu objetivo é criar um portifólio de trabalho e desenvolver ferramentas para resolver problemas de negócios de forma compartilhada.
 
 

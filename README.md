@@ -1,4 +1,4 @@
-# Olá, seja bem vindo(a) ao meu espaço! :gem:
+# Olá, seja bem-vindo(a) ao meu espaço! :gem:
 
 **`Analista de BI e Cientista de Dados`**
 
@@ -92,6 +92,14 @@
     align="left" 
     alt="Anaconda" 
     title="Anaconda"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"
+/>
+<img
+    align="left" 
+    alt="Jupiter" 
+    title="Jupiter"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg"

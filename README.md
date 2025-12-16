@@ -135,38 +135,21 @@
 <br/>
 <br/>
 
-## 📊 Estatísticas
+## 📈 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=micheleoliveiraacod&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=micheleoliveiraacod&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=micheleoliveiraacod&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=micheleoliveiraacod&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=micheleoliveiraacod&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
 
-</p>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-vibe 🕉️🧿💅💄👑🧘‍♀️🌷🌠🌙
+###
+🎵 **`https://open.spotify.com/intl-pt/album/5jUx9eYRIdj2b9JsDI55zD?si=MRUFwcdmQyu96xaTJtIHgQ&descSize`**
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/736x/0f/ed/55/0fed5512e99e16554622d3ad66f8db7e.jpg"  />
+</div>
+

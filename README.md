@@ -12,7 +12,7 @@
 
 <br/>
 
-# 🌐 Linguagens e Tecnologias
+## 🌐 Linguagens e Tecnologias
 
 <img
     align="left" 
@@ -135,7 +135,7 @@
 <br/>
 <br/>
 
-# 📊 Estatísticas
+## 📊 Estatísticas
 
 <p>
   <img 
@@ -149,7 +149,7 @@
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="200"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=micheleoliveiraacod&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 

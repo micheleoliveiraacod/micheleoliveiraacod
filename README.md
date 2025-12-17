@@ -1,3 +1,7 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
+</div>
+
 # Olá, seja bem-vindo(a) ao meu espaço! :gem:
 
 **`Analista de BI e Cientista de Dados`**
@@ -154,6 +158,10 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.pinimg.com/736x/0f/ed/55/0fed5512e99e16554622d3ad66f8db7e.jpg"  />
+  <img height="400" src="https://i.pinimg.com/736x/0f/ed/55/0fed5512e99e16554622d3ad66f8db7e.jpg"  />
+</div>
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
 </div>
 

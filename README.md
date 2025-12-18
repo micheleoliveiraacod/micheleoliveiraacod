@@ -207,6 +207,8 @@
   <img height="400" src="https://i.pinimg.com/736x/0f/ed/55/0fed5512e99e16554622d3ad66f8db7e.jpg"  />
 </div>
 
+<br/>
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=micheleoliveiraacod.micheleoliveiraacod&"  />
 </div>

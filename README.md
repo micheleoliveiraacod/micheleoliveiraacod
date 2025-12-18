@@ -26,6 +26,25 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+
+<img 
+    align="left" 
+    alt="SQL" 
+    title="SQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"             
+/>
+
+<img 
+    align="left" 
+    alt="RStudio" 
+    title="RStudio"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"         
+/>
+
 <img
     align="left" 
     alt="HTML" 
@@ -46,28 +65,13 @@
 
 <img 
     align="left" 
-    alt="SQL" 
-    title="SQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"             
-/>
-<img 
-    align="left" 
-    alt="RStudio" 
-    title="RStudio"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"         
-/>
-<img 
-    align="left" 
     alt="Linux" 
     title="Linux"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"     
 />
+
 <img 
     align="left" 
     alt="Docker" 
@@ -76,6 +80,7 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
 />
+
 <img 
     align="left" 
     alt="Git" 
@@ -84,6 +89,7 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
 <img 
     align="left" 
     alt="TensorFlow" 
@@ -92,6 +98,7 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"   
 />
+
 <img
     align="left" 
     alt="Jupiter" 
@@ -100,6 +107,7 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"
 />
+
 <img
     align="left" 
     alt="Anaconda" 
@@ -126,6 +134,7 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg"
 />
+
 <img
     align="left" 
     alt="VScode" 

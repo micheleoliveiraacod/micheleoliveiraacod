@@ -143,8 +143,45 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
 />
-
 <br/>
+<br/>
+
+## Contato
+<img
+    align="left" 
+    alt="Discord" 
+    title="Discord"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  
+  />
+
+<img
+    align="left" 
+    alt="Medium" 
+    title="Medium"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  
+  />
+  
+<img
+    align="left" 
+    alt="Gmail" 
+    title="Gmail"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  
+  />
+
+  <img
+    align="left" 
+    alt="Linkedin" 
+    title="Linkedin"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  
+  />
 <br/>
 <br/>
 
@@ -168,6 +205,10 @@
 
 <div align="center">
   <img height="400" src="https://i.pinimg.com/736x/0f/ed/55/0fed5512e99e16554622d3ad66f8db7e.jpg"  />
+</div>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=micheleoliveiraacod.micheleoliveiraacod&"  />
 </div>
 
 <div>

@@ -158,15 +158,6 @@
 
 <img
     align="left" 
-    alt="Medium" 
-    title="Medium"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  
-  />
-  
-<img
-    align="left" 
     alt="Gmail" 
     title="Gmail"
     width="30px" 

@@ -72,7 +72,6 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"     
 />
 
-
 <img
     align="left" 
     alt="Jupiter" 
@@ -128,12 +127,22 @@
 
 <img 
     align="left" 
+    alt="Scikitlearn" 
+    title="Scikitlearn"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"
+/>
+
+<img 
+    align="left" 
     alt="TensorFlow" 
     title="TensorFlow"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"   
 />
+
 <img 
     align="left" 
     alt="Git" 
@@ -142,6 +151,7 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
 <img
     align="left" 
     alt="VScode" 
@@ -150,6 +160,7 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
 />
+
 <br/>
 <br/>
 

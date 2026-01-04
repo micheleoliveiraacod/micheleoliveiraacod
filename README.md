@@ -204,7 +204,7 @@
 
 
 ###
-🎵 **`https://open.spotify.com/intl-pt/album/5jUx9eYRIdj2b9JsDI55zD?si=MRUFwcdmQyu96xaTJtIHgQ&descSize`**
+🎵 **`https://music.youtube.com/playlist?list=RDCLAK5uy_kVXmNQjiBEKjCGifBWc3eTMg8Fwjc6K8M&playnext=1&si=xgR719tHM6WK7z0D`**
 
 ###
 

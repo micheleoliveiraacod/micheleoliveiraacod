@@ -158,7 +158,7 @@
 <br/>
 <br/>
 
-## Contato
+## 🔄 Contato
 <img
     align="left" 
     alt="Discord" 

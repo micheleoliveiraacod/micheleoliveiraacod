@@ -157,6 +157,8 @@
 
 <br/>
 <br/>
+<br/>
+<br/>
 
 ## 🔄 Contato
 <img
@@ -185,6 +187,7 @@
     style="padding-right: 10px;" 
     src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  
   />
+<br/>
 <br/>
 <br/>
 

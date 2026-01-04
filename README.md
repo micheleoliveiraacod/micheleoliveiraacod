@@ -6,9 +6,9 @@
 
 **`Analista de BI e Cientista de Dados`**
 
-📍Sou especialista em **`AI, tecnologias para negócios e ciência de dados`** pela PUC, com experiência em **`gestão de processos`**, **`projetos`** e ações de **`melhoria contínua`**.
+📍Sou especialista em **`AI, tecnologias para negócios e ciência de dados`** pela PUC, com experiência em **`mapeamento e melhoria de processos`**, **`gestão de projetos`** e ações de **`melhoria contínua`**.
 
-🛠️ Trabalho com técnicas de **`ETL/ELT`** e visualização de dados utilizando **`Power BI e Looker Studio`**. Definição de KPI’s e OKR’s com base no plano estratégico do negócio.
+🛠️ Trabalho com técnicas de **`ETL/ELT, CRISP-DM`** e visualização de dados utilizando **`Power BI e Looker Studio`**. Faço análise de negócios para definição de **`métricas, KPI's e OKR's`** com base no plano estratégico da empresa e necessidades alinhadas com stakeholders.
 
 📂 Meu objetivo é criar um **`portifólio de trabalho`** e desenvolver ferramentas para resolver problemas de negócios de forma compartilhada.
 

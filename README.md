@@ -202,18 +202,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=micheleoliveiraacod&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-
-###
-🎵 **`https://music.youtube.com/playlist?list=RDCLAK5uy_kVXmNQjiBEKjCGifBWc3eTMg8Fwjc6K8M&playnext=1&si=xgR719tHM6WK7z0D`**
-
-###
-
-<div align="center">
-  <img height="400" src="https://i.pinimg.com/736x/0f/ed/55/0fed5512e99e16554622d3ad66f8db7e.jpg"  />
-</div>
-
-<br/>
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=micheleoliveiraacod.micheleoliveiraacod&"  />
 </div>

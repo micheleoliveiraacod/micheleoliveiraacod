@@ -192,14 +192,14 @@
 ## 📈 Estatísticas
 
 <div align="left">
-  <img src="https://githubreadmestats.vercel.app/apiusername=micheleoliveiraacod&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=pt-br&hide_border=false&order=1" height="100" alt="stats graph"  />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=micheleoliveiraacod&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="100" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=micheleoliveiraacod&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="100" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=micheleoliveiraacod&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=react&hide_border=false&order=2" height="100" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=micheleoliveiraacod&radius=16&theme=react&area=true&order=5" height="150" alt="activity-graph graph"  />
+</div>
 
-<br/>
-<br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=micheleoliveiraacod&radius=16&theme=react&area=true&order=5" height="100" alt="activity-graph graph"  />
+<div align="center">
+  <img height="300" src="https://i.pinimg.com/736x/b3/63/80/b36380e3189fd3d503627df647df59d6.jpg"  />
 </div>
 
 <div align="center">

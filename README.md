@@ -197,11 +197,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=micheleoliveiraacod&radius=16&theme=react&area=true&order=5" height="150" alt="activity-graph graph"  />
 </div>
 
-
-<div align="center">
-  <img height="300" src="https://i.pinimg.com/736x/f2/fe/f6/f2fef66564c5d34ac507848e6620ed7b.jpg"  />
-</div>
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=micheleoliveiraacod.micheleoliveiraacod&"  />
 </div>

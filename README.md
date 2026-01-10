@@ -155,8 +155,30 @@
 
 <br/>
 <br/>
-<br/>
-<br/>
+
+## 🗂️ Indice dos meus Repositórios
+
+
+### Cases - ETL
+
+### Cases - Analise e visualização de dados
+
+- [Case_COVID19_dadosclinicos_2025](https://github.com/micheleoliveiraacod/Case_COVID19_dadosclinicos_2025/blob/main/README.md)
+
+- [Casos_COVID10_geral_2025](https://github.com/micheleoliveiraacod/Casos_COVID10_geral_2025)
+
+### Cases - Machine Leraning
+
+### Cases - Conteiners
+
+### Cases - Cloud
+
+### Cases AI e GenAI
+
+### Bioinformática
+
+### Estudos
+- [Estudo_Linguagem_R](https://github.com/micheleoliveiraacod/Estudo_Linguagem_R)
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=micheleoliveiraacod.micheleoliveiraacod&"  />

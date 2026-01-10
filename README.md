@@ -158,37 +158,6 @@
 <br/>
 <br/>
 
-## 🔄 Contato
-<img
-    align="left" 
-    alt="Discord" 
-    title="Discord"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  
-  />
-
-<img
-    align="left" 
-    alt="Gmail" 
-    title="Gmail"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  
-  />
-
-  <img
-    align="left" 
-    alt="Linkedin" 
-    title="Linkedin"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  
-  />
-<br/>
-<br/>
-<br/>
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=micheleoliveiraacod.micheleoliveiraacod&"  />
 </div>

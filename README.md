@@ -166,7 +166,7 @@
 
 - [Case_COVID19_dadosclinicos_2025](https://github.com/micheleoliveiraacod/Case_COVID19_dadosclinicos_2025/blob/main/README.md)
 
-- [Casos_COVID10_geral_2025](https://github.com/micheleoliveiraacod/Casos_COVID10_geral_2025)
+- [Casos_COVID19_geral_2025](https://github.com/micheleoliveiraacod/Casos_COVID10_geral_2025)
 
 ### Cases - Machine Leraning
 

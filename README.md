@@ -162,7 +162,7 @@
 
 ### Cases ETL
 
-### Cases Analise e visualização de dados
+### Cases Visualização e Analise de dados de Negócios
 
 ### Cases Machine Learning
 

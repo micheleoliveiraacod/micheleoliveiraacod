@@ -6,7 +6,7 @@
 
 📍Sou especialista em **`AI, tecnologias para negócios e ciência de dados`** pela PUC, com experiência em **`mapeamento e melhoria de processos`**, **`gestão de projetos`** e ações de **`melhoria contínua`**.
 
-🛠️ Trabalho com técnicas de **`ETL/ELT, CRISP-DM`** e visualização de dados utilizando **`Power BI e Looker Studio`**. Faço análise de negócios para definição de **`métricas, KPI's e OKR's`** com base no plano estratégico da empresa e necessidades alinhadas com stakeholders.
+🛠️ Trabalho com técnicas de **`ETL/ELT, CRISP-DM`** e visualização de dados utilizando **`Power BI e Looker Studio`**. Faço análise de negócios para definição de **`OKR's, KPI's e métricas,`** com base no plano estratégico da empresa e necessidades alinhadas com stakeholders.
 
 📂 Meu objetivo é criar um **`portifólio de trabalho`** e desenvolver ferramentas para resolver problemas de negócios de forma compartilhada.
 

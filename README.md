@@ -159,6 +159,7 @@
 
 ## 🗂️ Indice dos meus Repositórios
 
+### Cases Automação de processos
 
 ### Cases ETL
 
@@ -176,8 +177,6 @@
 - [Case_COVID19_dadosclinicos_2025](https://github.com/micheleoliveiraacod/Case_COVID19_dadosclinicos_2025/blob/main/README.md)
 
 - [Case_COVID19_geral_2025](https://github.com/micheleoliveiraacod/Casos_COVID10_geral_2025)
-
-### Cases Computação Quântica
 
 ### Estudos
 - [Estudo_Linguagem_R](https://github.com/micheleoliveiraacod/Estudo_Linguagem_R)

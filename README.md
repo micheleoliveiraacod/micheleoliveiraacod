@@ -160,15 +160,15 @@
 ## 🗂️ Indice dos meus Repositórios
 
 
-### Cases - ETL
+### Cases ETL
 
-### Cases - Analise e visualização de dados
+### Cases Analise e visualização de dados
 
-### Cases - Machine Learning
+### Cases Machine Learning
 
-### Cases - Conteiners
+### Cases Conteiners
 
-### Cases - Cloud
+### Cases Cloud
 
 ### Cases AI e GenAI
 

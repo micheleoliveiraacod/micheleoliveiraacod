@@ -11,6 +11,12 @@
 📂 Meu objetivo é criar um **`portifólio de trabalho`** e desenvolver ferramentas para resolver problemas de negócios de forma compartilhada.
 
 :electron: Formada em Biomedicina, estudante de Bioinformática e Computação Quântica.
+<br/>
+<br/>
+
+📃 Manuscritos publicados em periódicos científicos
+
+- [Determination of the frequency and ABO antigens, H, students in Catarina State or not infected by Helicobacter pylori](https://medcraveonline.com/JBMOA/determination-of-the-frequency-and-abo-antigens-h-students-in-catarina-state-or-not-infected-by-helicobacter-pylori.html)
 
 <br/>
 

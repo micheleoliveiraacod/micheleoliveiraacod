@@ -161,7 +161,7 @@
 
 ### Automação de Processos (RPA)
 
-### ETL
+### ETL/ELT
 
 ### Visualização e Analise de dados de Negócios
 

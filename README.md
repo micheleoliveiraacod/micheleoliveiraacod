@@ -176,7 +176,7 @@
 ### Automação de Processos (RPA)
 - [Case_cadastro_produto](https://github.com/micheleoliveiraacod/Case_cadastro_produto)
 - [Case_consulta_CNPJs_RECEITAFEDERAL](https://github.com/micheleoliveiraacod/Case_consulta_CNPJs_RECEITAFEDERAL)
-- [Case_CNPJs_ativos_RECEITAFEDERAL](https://github.com/micheleoliveiraacod/Case_CNPJs_ativos_RECEITAFEDERAL/settings) 
+- [Projeto_dados_democraticos_RECEITAFEDERAL](https://github.com/micheleoliveiraacod/Projeto_dados_democraticos_RECEITAFEDERAL) 
 
 ### ETL/ELT
 

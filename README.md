@@ -159,21 +159,21 @@
 
 ## 🗂️ Indice dos meus Repositórios
 
-### Cases Automação de Processos
+### Automação de Processos (RPA)
 
-### Cases ETL
+### ETL
 
-### Cases Visualização e Analise de dados de Negócios
+### Visualização e Analise de dados de Negócios
 
-### Cases Machine Learning
+### Machine Learning
 
-### Cases Conteiners
+### Conteiners
 
-### Cases Cloud
+### Computação em Nuvem
 
-### Cases AI e GenAI
+### AI e GenAI
 
-### Cases Bioinformática
+### Bioinformática
 - [Case_COVID19_dadosclinicos_2025](https://github.com/micheleoliveiraacod/Case_COVID19_dadosclinicos_2025/blob/main/README.md)
 
 - [Case_COVID19_geral_2025](https://github.com/micheleoliveiraacod/Casos_COVID10_geral_2025)

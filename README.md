@@ -143,10 +143,6 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"   
 />
 
-<br/>
-<br/>
-<br/>
-
 <img 
     align="left" 
     alt="ApacheAirflow" 
@@ -163,6 +159,11 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
+<br/>
+<br/>
+<br/>
+
 <img
     align="left" 
     alt="VScode" 

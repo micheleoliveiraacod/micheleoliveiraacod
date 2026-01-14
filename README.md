@@ -18,9 +18,8 @@
 
 - [Determination of the frequency and ABO antigens, H, students in Catarina State or not infected by Helicobacter pylori](https://medcraveonline.com/JBMOA/determination-of-the-frequency-and-abo-antigens-h-students-in-catarina-state-or-not-infected-by-helicobacter-pylori.html)
 
-<br/>
 
-                     *Ikigai é o equilibrio entre o que eu faço, sustento, e o que o mundo precisa.*  🤍
+                      Ikigai é o equilibrio entre o que eu faço, sustento, e o que o mundo precisa. 🤍
 
 ## 🌐 Linguagens e Tecnologias
 

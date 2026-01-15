@@ -207,9 +207,6 @@
 
 - [Case_COVID19_geral_2025](https://github.com/micheleoliveiraacod/Casos_COVID10_geral_2025)
 
-### Estudos
-- [Estudo_Linguagem_R](https://github.com/micheleoliveiraacod/Estudo_Linguagem_R)
-
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=micheleoliveiraacod.micheleoliveiraacod&"  />

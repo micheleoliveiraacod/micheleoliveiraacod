@@ -192,7 +192,7 @@
 
 ### ETL/ELT
 
-### Visualização e Análise de Dados de Negócios
+### Análise e Visualização de Dados de Negócios
 
 ### Machine Learning
 

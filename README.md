@@ -184,19 +184,16 @@
 <br/>
 <br/>
 
-## 🗂️ Indice dos meus Repositórios
+## 🗂️ Indice dos Repositórios
 
 ### Automação de Processos (RPA)
 - [Case_cadastro_produto](https://github.com/micheleoliveiraacod/Case_cadastro_produto)
 - [Case_consulta_CNPJs_RECEITAFEDERAL](https://github.com/micheleoliveiraacod/Case_consulta_CNPJs_RECEITAFEDERAL)
 
-### ETL/ELT
 
-### Análise e Visualização de Dados de Negócios
+### Análise de Dados de Negócios
 
 ### Machine Learning
-
-### Conteiners
 
 ### Computação em Nuvem
 

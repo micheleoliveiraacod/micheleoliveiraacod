@@ -4,9 +4,11 @@
 
 # Olá, seja bem-vindo(a) ao meu espaço! :gem:
 
-📍Tenho MBA em AI, Data Science e Big Data, experiência em mapeamento e melhoria de processos, gestão de projetos e ações de melhoria contínua.
+📍 Tenho MBA em AI, Data Science e Big Data, experiência em mapeamento e melhoria de processos, gestão de projetos e ações de melhoria contínua.
 
-🛠️ Trabalho com análise, visualização e ciência de dados com modelos preditivos. Faço análise de negócios para alinhamento de OKR's, KPI's e métricas, com base no plano estratégico da empresa e necessidades mapeadas com stakeholders.
+📈 Trabalho com análise, visualização e ciência de dados, criando modelos modelos preditivos e prescritivos. 
+
+🎯 Analiso negócios para alinhamento de OKR's, KPI's e métricas, com base no plano estratégico da empresa e necessidades mapeadas com stakeholders.
 
 :electron: Formada em Biomedicina, estudante de Bioinformática e Computação Quântica.
 <br/>

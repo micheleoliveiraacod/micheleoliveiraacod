@@ -194,7 +194,7 @@
 
 ### Machine Learning
 
-- [CCase_analise_preditiva_churn](https://github.com/micheleoliveiraacod/Case_analise_preditiva_churn)
+- [Case_analise_preditiva_churn](https://github.com/micheleoliveiraacod/Case_analise_preditiva_churn)
 
 ### Computação em Nuvem
 

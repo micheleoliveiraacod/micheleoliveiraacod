@@ -196,7 +196,7 @@
 
 - [Case_analise_preditiva_churn](https://github.com/micheleoliveiraacod/Case_analise_preditiva_churn)
 
-- [Case_previsao_analise_credito](https://github.com/micheleoliveiraacod/Case_previsao_analise_credito)
+- [Case_analise_preditiva_credito](https://github.com/micheleoliveiraacod/Case_analise_preditiva_credito)
 
 
 ### Computação em Nuvem

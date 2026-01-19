@@ -10,7 +10,7 @@
 
 🎯 Analiso negócios para alinhamento de OKR's, KPI's e métricas, com base no plano estratégico da empresa e necessidades mapeadas com stakeholders.
 
-⚙️ Meu objtivo é criar um portifolio de trabalho e desenvolver ferramentas tecnologicas, para resolver problemas de negócios orientado a resultados.
+⚙️ Meu objtivo é criar um portifolio de trabalho e desenvolver ferramentas para resolver problemas de negócios orientado a resultados.
 
 :electron: Formada em Biomedicina, estudante de Bioinformática e Computação Quântica.
 <br/>

@@ -4,9 +4,7 @@
 
 # Olá, seja bem-vindo(a) ao meu espaço! :gem:
 
-📍 Tenho MBA em AI, Data Science e Big Data, experiência em mapeamento e melhoria de processos, gestão de projetos e ações de melhoria contínua.
-
-📈 Trabalho com análise, visualização e ciência de dados, criando modelos preditivos de algrotimos de ML.
+📈 Trabalho com análise, visualização e ciência de dados, criando modelos preditivos de algrotimos de ML, orientado a resultados.
 
 🎯 Analiso negócios para alinhamento de OKR's, KPI's e métricas, com base no plano estratégico da empresa e necessidades mapeadas com stakeholders.
 

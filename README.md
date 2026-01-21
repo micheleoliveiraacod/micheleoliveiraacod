@@ -6,21 +6,16 @@
 
 📍 Tenho MBA em AI, Data Science e Big Data, experiência em mapeamento e melhoria de processos, gestão de projetos e ações de melhoria contínua.
 
-📈 Trabalho com análise, visualização e ciência de dados, criando modelos preditivos de algrotimos de ML. 
+📈 Trabalho com análise, visualização e ciência de dados, criando modelos preditivos de algrotimos de ML.
 
 🎯 Analiso negócios para alinhamento de OKR's, KPI's e métricas, com base no plano estratégico da empresa e necessidades mapeadas com stakeholders.
-
-⚙️ Meu objtivo é criar um portifolio de trabalho e desenvolver ferramentas para resolver problemas de negócios orientado a resultados.
 
 :electron: Estudante de Bioinformática.
 <br/>
 
-📃 Manuscritos publicados em periódicos científicos
-
-- [Determination of the frequency and ABO antigens, H, students in Catarina State or not infected by Helicobacter pylori](https://medcraveonline.com/JBMOA/determination-of-the-frequency-and-abo-antigens-h-students-in-catarina-state-or-not-infected-by-helicobacter-pylori.html)
-
 
                       Ikigai é o equilibrio entre o que eu faço, sustento, e o que o mundo precisa. 🤍
+
 
 ## 🌐 Linguagens e Tecnologias
 

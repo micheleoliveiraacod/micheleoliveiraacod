@@ -12,9 +12,6 @@
 <br/>
 
 
-                      Ikigai é o equilibrio entre o que eu faço, sustento, e o que o mundo precisa. 🤍
-
-
 ## 🌐 Linguagens e Tecnologias
 
 <img

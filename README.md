@@ -10,6 +10,7 @@
 
 :electron: Estudante de Bioinformática.
 <br/>
+</div>
 
 
 ## 🌐 Linguagens e Tecnologias

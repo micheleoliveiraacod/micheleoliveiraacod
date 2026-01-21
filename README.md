@@ -12,8 +12,7 @@
 
 ⚙️ Meu objtivo é criar um portifolio de trabalho e desenvolver ferramentas para resolver problemas de negócios orientado a resultados.
 
-:electron: Formada em Biomedicina, estudante de Bioinformática e Computação Quântica.
-<br/>
+:electron: Estudante de Bioinformática.
 <br/>
 
 📃 Manuscritos publicados em periódicos científicos

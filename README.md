@@ -9,9 +9,11 @@
 🎯 Analiso negócios para alinhamento de OKR's, KPI's e métricas, com base no plano estratégico da empresa e necessidades mapeadas com stakeholders.
 
 :electron: Estudante de Bioinformática.
+
 <br/>
 </div>
-
+</div>
+</div>
 
 ## 🌐 Linguagens e Tecnologias
 

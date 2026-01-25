@@ -139,8 +139,8 @@
 />
 <img 
     align="left" 
-    alt="ApacheAirflow" 
-    title="ApacheAirflow"
+    alt="Airflow" 
+    title="Airflow"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" 
@@ -149,12 +149,19 @@
 <br/>
 <br/>
 <br/>
-
 <img
     align="left" 
-    alt="Hadoop" 
-    title="Hadoop"
+    alt="MLflow" 
+    title="MLflow"
     width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mlflow.svg"
+/>
+<img
+    align="left"
+    alt="Hadoop"
+    title="Hadoop"
+    width="30px"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original.svg"
 />

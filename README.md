@@ -188,7 +188,7 @@
     title="PowerBI"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power%20BI.svg" 
+    src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" 
 />
 <img
     align="left" 

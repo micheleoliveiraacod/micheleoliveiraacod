@@ -4,14 +4,14 @@
 
 # Olá, seja bem-vindo(a) ao meu espaço! :gem:
 
-📈 Trabalho com análise, visualização e ciência de dados, criando modelos preditivos de algoritmos de ML, orientado a resultados.
+📍 Tenho MBA em AI, Data Science e Big Data, experiência em mapeamento e melhoria de processos, gestão de projetos e ações de melhoria contínua.
 
-🎯 Analiso negócios para alinhamento de OKR's, KPI's e métricas, com base no plano estratégico da empresa e necessidades mapeadas com stakeholders.
+📈 Trabalho com análise, visualização e ciência de dados, criando modelos prescritivos e preditivos com algoritmos de Machine Learning.
 
-:electron: Estudante de Bioinformática.
+🎯 Faço análise de negócios para alinhamento de OKR's, KPI's e métricas, com base no plano estratégico da empresa e necessidades mapeadas com stakeholders. Resolvo problemas de negócios orientado por resultados.
 
-<br/>
-<br/>
+:electron: Graduada em Biomedicina e estudante de Bioinformática.
+
 <br/>
 <br/>
 

@@ -4,7 +4,7 @@
 
 # Olá, seja bem-vindo(a) ao meu espaço! :gem:
 
-📈 Trabalho com análise, visualização e ciência de dados, criando modelos preditivos de algrotimos de ML, orientado a resultados.
+📈 Trabalho com análise, visualização e ciência de dados, criando modelos preditivos de algoritmos de ML, orientado a resultados.
 
 🎯 Analiso negócios para alinhamento de OKR's, KPI's e métricas, com base no plano estratégico da empresa e necessidades mapeadas com stakeholders.
 

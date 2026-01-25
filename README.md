@@ -4,7 +4,7 @@
 
 # Olá, seja bem-vindo(a) ao meu espaço! :gem:
 
-📍 Tenho MBA em AI, Data Science e Big Data, experiência em mapeamento e melhoria de processos, gestão de projetos e ações de melhoria contínua.
+📍 Tenho MBA em AI, Data Science e Big Data, experiência em mapeamento de processos, gestão de projetos e ações de melhoria contínua.
 
 📈 Trabalho com análise, visualização e ciência de dados, criando modelos prescritivos e preditivos com algoritmos de Machine Learning.
 

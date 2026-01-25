@@ -11,9 +11,9 @@
 :electron: Estudante de Bioinformática.
 
 <br/>
-</div>
-</div>
-</div>
+<br/>
+<br/>
+<br/>
 
 ## 🌐 Linguagens e Tecnologias
 
@@ -115,14 +115,6 @@
 />
 <img 
     align="left" 
-    alt="Docker" 
-    title="Docker"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
-/>
-<img 
-    align="left" 
     alt="Scikitlearn" 
     title="Scikitlearn"
     width="30px" 
@@ -139,6 +131,14 @@
 />
 <img 
     align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
+/>
+<img 
+    align="left" 
     alt="ApacheAirflow" 
     title="ApacheAirflow"
     width="30px" 
@@ -150,7 +150,15 @@
 <br/>
 <br/>
 
-<img 
+<img
+    align="left" 
+    alt="Hadoop" 
+    title="Hadoop"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-plain.svg"
+/>
+<img
     align="left" 
     alt="Git" 
     title="Git"

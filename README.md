@@ -175,6 +175,30 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
 />
 <img
+    align="left"
+    alt="Spark"
+    title="Spark"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg"
+/>
+<img
+    align="left" 
+    alt="PowerBI" 
+    title="PowerBI"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power%20BI.svg" 
+/>
+<img
+    align="left" 
+    alt="Looker" 
+    title="Looker"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://www.svgrepo.com/download/353809/google-data-studio.svg" 
+/>
+<img
     align="left" 
     alt="Git" 
     title="Git"

@@ -240,9 +240,6 @@
 
 - [Case_analise_preditiva_credito](https://github.com/micheleoliveiraacod/Case_analise_preditiva_credito)
 
-
-### Computação em Nuvem
-
 ### AI e GenAI
 
 ### Bioinformática

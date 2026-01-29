@@ -13,7 +13,6 @@
 :electron: Graduada em Biomedicina e estudante de Bioinformática.
 
 
-                                                 I am unstoppable ⚡
 <br/>
 <br/>
 

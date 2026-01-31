@@ -201,6 +201,22 @@
 />
 <img
     align="left" 
+    alt="Google Cloud" 
+    title="Google Cloud"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" 
+/>
+<img
+    align="left" 
+    alt="AWS" 
+    title="AWS"
+    width="30px"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" 
+/>
+<img
+    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 

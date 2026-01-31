@@ -122,11 +122,6 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" 
   />
-
-<br/>
-<br/>
-<br/>
-
 <img
     align="left" 
     alt="MLflow" 
@@ -151,6 +146,12 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
 />
+
+<br/>
+<br/>
+<br/>
+
+
 <img
     align="left"
     alt="Spark"

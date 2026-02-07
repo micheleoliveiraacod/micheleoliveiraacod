@@ -225,10 +225,6 @@
 
 ## 🗃️ Indice dos Repositórios
 
-### Automação de Processos
-- [Case_cadastro_produto](https://github.com/micheleoliveiraacod/Case_cadastro_produto)
-- [Case_consulta_CNPJs_RECEITAFEDERAL](https://github.com/micheleoliveiraacod/Case_consulta_CNPJs_RECEITAFEDERAL)
-
 ### Análise de Dados de Negócios
 
 ### Machine Learning
@@ -236,8 +232,6 @@
 - [Case_analise_preditiva_churn](https://github.com/micheleoliveiraacod/Case_analise_preditiva_churn)
 
 - [Case_analise_preditiva_credito](https://github.com/micheleoliveiraacod/Case_analise_preditiva_credito)
-
-### AI e GenAI
 
 ### Bioinformática
 - [Case_COVID19_dados_clinicos_2025](https://github.com/micheleoliveiraacod/Case_COVID19_dados_clinicos_2025)
